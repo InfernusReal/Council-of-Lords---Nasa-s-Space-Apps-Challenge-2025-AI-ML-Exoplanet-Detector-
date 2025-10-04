@@ -1,0 +1,4 @@
+Name: TOI-715b (Super-Earth)
+Type: exoplanet
+Points: 39600
+Duration: 55.0 days

@@ -1,0 +1,4 @@
+Name: Contact Binary
+Type: false_positive
+Points: 1440
+Duration: 30.0 days

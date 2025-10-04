@@ -1,0 +1,4 @@
+Name: Noisy Planet Detection
+Type: exoplanet
+Points: 25920
+Duration: 90.0 days

@@ -1,0 +1,4 @@
+Name: Systematic Artifact
+Type: false_positive
+Points: 25200
+Duration: 35.0 days

@@ -1,0 +1,4 @@
+Name: Earth-like (Ground-based)
+Type: exoplanet
+Points: 26792
+Duration: 200.0 days

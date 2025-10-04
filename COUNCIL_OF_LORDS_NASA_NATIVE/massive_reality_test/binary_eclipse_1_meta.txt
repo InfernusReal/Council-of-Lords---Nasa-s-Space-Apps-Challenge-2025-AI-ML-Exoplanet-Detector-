@@ -1,0 +1,4 @@
+Name: Detached Binary
+Type: false_positive
+Points: 1920
+Duration: 40.0 days

@@ -1,0 +1,5 @@
+Name: Eclipsing Binary (realistic false positive)
+Type: false_positive
+Source: synthetic_realistic
+Points: 6910
+Duration: 15.0 days

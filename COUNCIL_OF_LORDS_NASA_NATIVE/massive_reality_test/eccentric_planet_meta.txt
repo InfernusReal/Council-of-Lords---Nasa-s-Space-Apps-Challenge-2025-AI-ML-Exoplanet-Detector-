@@ -1,0 +1,4 @@
+Name: HD 80606b (Eccentric)
+Type: exoplanet
+Points: 12000
+Duration: 250.0 days

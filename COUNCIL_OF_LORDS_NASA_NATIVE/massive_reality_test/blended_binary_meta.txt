@@ -1,0 +1,4 @@
+Name: Blended Binary
+Type: false_positive
+Points: 2400
+Duration: 50.0 days

@@ -1,0 +1,4 @@
+Name: Grazing Transit
+Type: exoplanet
+Points: 2880
+Duration: 60.0 days

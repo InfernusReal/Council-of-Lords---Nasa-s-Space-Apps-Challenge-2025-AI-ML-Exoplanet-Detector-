@@ -1,0 +1,4 @@
+Name: K2-18b (Mini-Neptune)
+Type: exoplanet
+Points: 3840
+Duration: 80.0 days

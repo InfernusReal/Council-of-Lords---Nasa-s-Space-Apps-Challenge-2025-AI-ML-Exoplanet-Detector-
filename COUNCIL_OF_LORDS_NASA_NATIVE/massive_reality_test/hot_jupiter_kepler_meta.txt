@@ -1,0 +1,4 @@
+Name: Kepler-7b (Hot Jupiter)
+Type: exoplanet
+Points: 5560
+Duration: 120.0 days

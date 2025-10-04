@@ -1,0 +1,5 @@
+Name: TOI-715b (TESS-like with real noise)
+Type: exoplanet
+Source: tess_like
+Points: 18346
+Duration: 27.0 days

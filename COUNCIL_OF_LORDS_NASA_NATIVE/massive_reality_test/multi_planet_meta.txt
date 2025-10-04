@@ -1,0 +1,4 @@
+Name: Multi-Planet System
+Type: exoplanet
+Points: 7200
+Duration: 150.0 days

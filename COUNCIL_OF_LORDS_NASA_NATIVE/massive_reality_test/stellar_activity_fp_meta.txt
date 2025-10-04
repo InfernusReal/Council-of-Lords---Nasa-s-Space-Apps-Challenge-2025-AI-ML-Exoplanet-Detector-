@@ -1,0 +1,4 @@
+Name: Stellar Activity
+Type: false_positive
+Points: 3840
+Duration: 80.0 days
