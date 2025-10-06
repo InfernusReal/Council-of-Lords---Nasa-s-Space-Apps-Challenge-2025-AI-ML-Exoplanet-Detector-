@@ -3,6 +3,9 @@
 ## Overview
 This project contains an exoplanet detection system with both backend and frontend components, along with comprehensive datasets for training and testing.
 
+🌟 If you're here from NASA judging: Please begin by reading the [README.md](../README.md) file first. It contains the manifesto, feature breakdown, and scientific vision of this system. This is not a demo — this is real exoplanet detection built from scratch using 5 AI models and pure physics intelligence.
+
+
 ## 📡 Real Kepler and TESS Datasets
 
 **Note**: If you want to use real Kepler and TESS datasets, kindly go to the `KeplerNTessDatasets` folder inside the `COUNCIL_OF_LORDS_NASA_NATIVE` folder where you'll find **36 authentic Kepler and TESS datasets** from confirmed exoplanet observations. You'll find them at the top.
